@@ -1,0 +1,59 @@
+Sistemas de numeração.
+-----------------------
+
+Decimal.
+Binário.
+
+Hexadecimal.
+AS(16)
+A     5
+16^1  16^0
+
+Octal.
+
+8 bits = 1 Byte.
+
+
+PORTAS LÓGICAS.
+---------------
+
+AND
+-----
+A B Y
+0 0 0
+1 0 0
+0 1 0
+1 1 1
+
+OR
+------
+
+A B Y
+0 0 0
+1 0 1
+0 1 1
+1 1 1
+
+
+NOT 
+-----
+
+A  Y
+O  1
+1  0
+
+NAND - NÃOE
+------------
+A B Y
+0 0 1
+1 0 1
+0 1 1
+1 1 0
+
+NOR - NÃO OU
+-------------
+A B Y 
+0 0 1
+1 0 0
+0 1 0
+1 1 0
