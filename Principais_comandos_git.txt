@@ -1,0 +1,8 @@
+PRINCIPAIS COMANDOS DO GIT.
+------------------------------
+git init
+git add .
+git commit -m "Meus arquivos"
+git branch -M main
+git remote add orgin https://github.com/repelli
+git push -u origin main
