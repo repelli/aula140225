@@ -1,0 +1,47 @@
+TENSÃO ELÉTRICA.(DDP) - Volts.
+---------------
+Vontade do elétron sai de um ponto A e chegar em um ponto B. Para que isso ocorra
+é necessário haver um diferença de potencial DDP(diferencia de potencial).
+O equilíbrio é alcançado por:
+				-->contato.
+				-->atrito.
+				-->indução.
+Unidade de medida --> Volts(V).
+
+
+CORRENTE ELÉTRICA.(A) - Ampare.
+------------------
+É o fluxo ordenado de elétrons gerado pela diferença de potencial. Flui entre dois corpos.
+A quantidade de elétrons que passa depende do caminho determinado.
+Determina a quantidade de Columbs por segundo passa por um condutor.
+
+Unidade de medida --> Ampare(A).
+
+RESISTÊNCIA ELÉTICA.() OHM.
+--------------------
+Propriedade dos materiais resistir a passagem de elétrons, corrente elétrica. Diminui ou aumenta
+a quantidade de elétrons que passa por segundo, sendo incorreto o termo "redução de velocidade do
+elétron".
+É importante para limitar a passagem da corrente para evitar a queima de equipamentos.
+
+Unidade de medida --> OHM().
+
+
+Primeira lei de OHM.
+--------------------
+i = U  --> U = R .I --> R = U
+   ---			    --	
+    R                       I
+A corrente é diretamente proporcional a tensão e inversamente proporcional a resistência.
+
+O resistor é um componente eletrônico de materiais diferentes limitadores de corrente. Há um código
+de cores para identificar o resistor sendo as duas significativas e terceira base 10 e o quarto é a
+tolerância.
+
+
+https://www.tinkercad.com/ --> SIMULAÇÃO ELÉTICA E MECÂNICA.
+
+
+
+
+
